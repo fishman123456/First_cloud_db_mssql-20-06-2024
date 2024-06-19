@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("First_cloud_db_mssql-20-06-2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97f065d236960282660f5d78c80a802d9aa15759")]
 [assembly: System.Reflection.AssemblyProductAttribute("First_cloud_db_mssql-20-06-2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("First_cloud_db_mssql-20-06-2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

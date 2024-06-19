@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using CloudSqlServer_App;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World! 20-06-2024 1-20 ночи");
 
 // протестируем работу БД
 

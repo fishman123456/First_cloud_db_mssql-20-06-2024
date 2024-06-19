@@ -86,8 +86,7 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-19T18:07:21.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T18:07:21.983Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "MyMigration\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T18:02:50.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T18:02:50.56Z"
             },
             {
               "$type": "Document",
@@ -112,8 +110,7 @@
               "RelativeToolTip": "MyMigration\\20240619175509_init.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T17:55:09.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:55:09.388Z"
             },
             {
               "$type": "Document",
@@ -125,8 +122,7 @@
               "RelativeToolTip": "ApplicationDbContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T17:52:21.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:52:21.833Z"
             },
             {
               "$type": "Document",
@@ -138,8 +134,7 @@
               "RelativeToolTip": "Entity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T17:49:11.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T17:49:11.522Z"
             },
             {
               "$type": "Document",
@@ -149,7 +144,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Github\\First_cloud_db_mssql-20-06-2024\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T17:42:38.829Z",
               "EditorCaption": ""
